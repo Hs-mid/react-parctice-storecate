@@ -1,0 +1,17 @@
+.iconandnum{
+    position: relative;
+}
+
+.icon{
+    color: rgb(139, 139, 138);
+    font-size: 2rem;
+}
+
+#numberarticle{
+    position: absolute;
+    color: rgba(255, 0, 0, 0.904);
+    font-weight: 800;
+    right: -5%;
+    top: -40%;
+    font-size: 1.3rem;
+}

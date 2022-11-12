@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name":"gray cat",
+        "price":100,
+        "img":"/img/cat-1192026_640.jpg",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+            
+    },
+    {
+        "id":2,
+        "name":"brown cat",
+        "price":150,
+        "img":"/img/cat-3113513_640.jpg",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "id":3,
+        "name":"white and gray cat",
+        "price":100,
+        "img":"/img/cat-468232_640.jpg",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "id":4,
+        "name":"white cat",
+        "price":100,
+        "img":"/img/cat-551554_1280.jpg",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "id":5,
+        "name":"yellow cat",
+        "price":100,
+        "img":"/img/cat-67345_640.jpg",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    }
+    
+]

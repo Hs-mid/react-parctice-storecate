@@ -1,0 +1,23 @@
+
+.card-img-top{
+   max-height: 150PX;
+   width: 100%;
+}
+
+.detailrow{
+   height: 60vh;
+}
+
+.detailimg{
+   width: 100%;
+   height: 100%;
+}
+
+.incart{
+   padding: 0;
+   
+}
+
+.incartimg{
+   width: 100%;
+}
